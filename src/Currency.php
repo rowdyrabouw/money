@@ -49,7 +49,7 @@ final class Currency implements \JsonSerializable
      */
     public function equals(Currency $other)
     {
-        return $this->code === $other->code;
+        return $this->code < $other->code;
     }
 
     /**
