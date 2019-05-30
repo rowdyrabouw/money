@@ -1,3 +1,5 @@
+Hi! Welcome to this repo.
+
 # Money
 
 [![Latest Version](https://img.shields.io/github/release/moneyphp/money.svg?style=flat-square)](https://github.com/moneyphp/money/releases)
