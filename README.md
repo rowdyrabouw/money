@@ -1,6 +1,6 @@
 # About this fork
-This fork was made purely for purposes of practicing Git during an 
-interactive workshop called _Git Legit_. 
+Welcome! This fork was made purely for purposes of practicing Git during an 
+interactive workshop called _Git Legit_ :)
 
 # Setup instructions
 _NOTE: if you already have PHP installed on your machine, make sure to 
@@ -29,8 +29,12 @@ This will take about a minute.
 ## Step 4: Run the tests
 To ensure you're all set for the workshop, run the unit tests:
 ```
-vendor/bin/phpunit 
+vendor/bin/phpunits
 ```
+
+## Step 5: ???????
+
+## Step 6: PROFIT!
 
 # Money
 
