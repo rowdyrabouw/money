@@ -1,0 +1,23 @@
+{
+  "name": "money",
+  "version": "1.0.0",
+  "description": "This fork was made purely for purposes of practicing Git during an  interactive workshop called _Git Legit_.",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulinevos/money.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulinevos/money/issues"
+  },
+  "homepage": "https://github.com/paulinevos/money#readme"
+}
